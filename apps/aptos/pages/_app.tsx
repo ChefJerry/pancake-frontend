@@ -17,7 +17,7 @@ import ListsUpdater from 'state/lists/updater'
 import TransactionUpdater from 'state/transactions/updater'
 import GlobalStyle from 'style/Global'
 
-// This config is required for number formatting
+// This config is required for number formatting 
 BigNumber.config({
   EXPONENTIAL_AT: 1000,
   DECIMAL_PLACES: 80,
